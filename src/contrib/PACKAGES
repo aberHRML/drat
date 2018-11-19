@@ -1,7 +1,8 @@
-Package: drat
-Version: 0.0.4
-Suggests: git2r, knitr
-License: GPL (>= 2)
-MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
+Package: metaboData
+Version: 0.2.2
+Depends: R (>= 3.4.0)
+Imports: stringr, magrittr, purrr, readr, yaml
+Suggests: testthat, covr
+License: GPL (>= 3)
+MD5sum: 5a369332064fb666302fa56e3144357a
 NeedsCompilation: no
-
