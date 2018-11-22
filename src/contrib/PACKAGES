@@ -1,8 +1,8 @@
 Package: metaboData
-Version: 0.2.2
+Version: 0.2.3
 Depends: R (>= 3.4.0)
 Imports: stringr, magrittr, purrr, readr, yaml
 Suggests: testthat, covr
 License: GPL (>= 3)
-MD5sum: 5a369332064fb666302fa56e3144357a
+MD5sum: 41f1254733c677bab473a952bfbc0fce
 NeedsCompilation: no
