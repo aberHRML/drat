@@ -1,3 +1,12 @@
+Package: FIEmspro
+Version: 1.2-1
+Depends: e1071, randomForest, MASS, KernSmooth,RColorBrewer, xtable,
+       plotrix, impute
+Imports: ncdf4
+License: GPL (>= 2)
+MD5sum: b598af1ffc7fbb313ca541738f7a458a
+NeedsCompilation: no
+
 Package: metaboData
 Version: 0.2.2
 Depends: R (>= 3.4.0)
