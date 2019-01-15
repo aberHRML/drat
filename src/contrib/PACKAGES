@@ -8,10 +8,10 @@ MD5sum: b598af1ffc7fbb313ca541738f7a458a
 NeedsCompilation: no
 
 Package: metaboData
-Version: 0.2.3
+Version: 0.3.0
 Depends: R (>= 3.4.0)
 Imports: stringr, magrittr, purrr, readr, yaml
-Suggests: testthat, covr
+Suggests: testthat, covr, knitr, rmarkdown, prettydoc
 License: GPL (>= 3)
-MD5sum: 41f1254733c677bab473a952bfbc0fce
+MD5sum: 19905439af7c45d0691c28f85b2fd7d9
 NeedsCompilation: no
